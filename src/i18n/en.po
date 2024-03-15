@@ -1960,11 +1960,6 @@ msgstr ""
 msgid "Sending Native Polygon USDC is not yet supported."
 msgstr ""
 
-#: src/components/staking/StakingGraphPage.vue:105
-#: src/components/staking/StakingGraphPage.vue:181
-msgid "Sending Staking Transaction"
-msgstr ""
-
 #: src/components/modals/BtcSendModal.vue:454
 #: src/components/modals/SendModal.vue:764
 #: src/components/modals/UsdcSendModal.vue:602
@@ -2104,7 +2099,6 @@ msgstr ""
 #: src/components/modals/SendModal.vue:633
 #: src/components/modals/SendModal.vue:819
 #: src/components/modals/UsdcSendModal.vue:645
-#: src/components/staking/StakingGraphPage.vue:233
 #: src/components/staking/StakingValidatorPage.vue:132
 msgid "Something went wrong"
 msgstr ""
@@ -2149,20 +2143,8 @@ msgstr ""
 msgid "Store of value, got it"
 msgstr ""
 
-#: src/components/staking/StakingGraphPage.vue:168
-msgid "Successfully added {amount} NIM to your stake with {validator}"
-msgstr ""
-
 #: src/components/staking/StakingValidatorPage.vue:114
 msgid "Successfully changed validator to {validator}"
-msgstr ""
-
-#: src/components/staking/StakingGraphPage.vue:207
-msgid "Successfully deactivated {amount} NIM from your stake with {validator}"
-msgstr ""
-
-#: src/components/staking/StakingGraphPage.vue:134
-msgid "Successfully staked {amount} NIM with {validator}"
 msgstr ""
 
 #: src/components/modals/WelcomeModal.vue:109
